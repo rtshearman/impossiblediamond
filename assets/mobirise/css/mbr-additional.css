@@ -541,7 +541,11 @@ a:hover {
   color: #fffcf6;
 }
 #footer1-4 .card-text {
-  color: #6da6d1;
+  color: #c2c2c2;
+  font-size: 13px;
+}
+#footer1-4 .card-title B {
+  font-size: 15px;
 }
 #menu2-2 .hide-buttons .nav-btn {
   display: none !important;

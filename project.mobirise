@@ -20,7 +20,8 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
-        "#6da6d1"
+        "#6da6d1",
+        "#c2c2c2"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -285,7 +286,7 @@
           "_params": {
             "showTitle": true,
             "columns": "4",
-            "paddingTop": 1,
+            "paddingTop": "1",
             "paddingBottom": 1,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
@@ -301,13 +302,13 @@
             "overlayOpacity": 0.4
           },
           "list": "<ul><li><a href=\"\">Bootstrap 4</a></li><li><a href=\"\">Responsive</a></li><li><a href=\"\">Web Fonts</a></li><li><a href=\"\">Unlimited Sites</a></li><li><a href=\"\">Google</a></li><li><a href=\"\">Node</a></li></ul>",
-          "title1": "About Us",
-          "title2": "Impact Work",
-          "title3": "Business Inquiries",
-          "title4": "Contact Us",
+          "title1": "<b>About Us</b>",
+          "title2": "<b>Impact Work</b>",
+          "title3": "<b>Business Inquiries</b>",
+          "title4": "<b>Contact Us</b>",
           "text1": "Our Mission<br>Corporate Values<br>Public Benefit Corporation<br>CA Supply Chains Act<a href=\"http://mobirise.com\">.</a>",
           "text2": "Environmental<br>Human Rights<br>Charitable Giving<br>",
-          "text3": "<a href=\"http://mobirise.com\">Contact us</a><br>Partnerships<br>C<a href=\"http://mobirise.com\">areers</a><br><a href=\"http://mobirise.com\">nd a bit more</a><br><a href=\"http://mobirise.com\">.</a>",
+          "text3": "Partnerships<br>C",
           "text4": "HEADQUARTERS<br>Impossible Diamond, Inc.<br>175 Varick Street 8th Floor<br>New York, NY 10014<br>+1 (609) 467-4138",
           "copy": "<p>Privacy Policy&nbsp; &nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;Terms of Service&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; © Impossible Diamond 2019. All Rights Reserved.</p>",
           "_tags": [
@@ -320,7 +321,11 @@
               "color": "#fffcf6"
             },
             ".card-text": {
-              "color": "#6da6d1"
+              "color": "#c2c2c2",
+              "font-size": "13px"
+            },
+            ".card-title B": {
+              "font-size": "15px"
             }
           }
         },
