@@ -540,6 +540,9 @@ a:hover {
 #footer1-4 .card-title {
   color: #fffcf6;
 }
+#footer1-4 .card-text {
+  color: #6da6d1;
+}
 #menu2-2 .hide-buttons .nav-btn {
   display: none !important;
 }

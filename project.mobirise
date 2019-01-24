@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Impossible Diamond",
+    "name": "Impossible Diamond-clone",
     "currentPage": "index.html",
     "theme": {
       "name": "directm",
@@ -256,19 +256,19 @@
             "overlayColor": "#f6f7f8",
             "overlayOpacity": 0.5
           },
-          "title": "Subscribe now!",
+          "title": "Sign up to learn more.",
           "subtitle": "Get notified about new amazing products",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\">Send</a>",
           "form": {
-            "action": "ryan@carat-rings.com",
+            "action": "ryan@impossiblediamond.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "You're all done!"
             },
             "fields": {
               "email": {
                 "title": "Email",
-                "customTitle": "Enter Your Email Address..."
+                "customTitle": "Enter your email address"
               }
             }
           },
@@ -284,7 +284,7 @@
         {
           "_params": {
             "showTitle": true,
-            "columns": 3,
+            "columns": "4",
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgImageRadio": false,
@@ -301,15 +301,15 @@
             "overlayOpacity": 0.4
           },
           "list": "<ul><li><a href=\"\">Bootstrap 4</a></li><li><a href=\"\">Responsive</a></li><li><a href=\"\">Web Fonts</a></li><li><a href=\"\">Unlimited Sites</a></li><li><a href=\"\">Google</a></li><li><a href=\"\">Node</a></li></ul>",
-          "title1": "For Business",
-          "title2": "For Developers",
-          "title3": "For Stores",
-          "title4": "For Students",
-          "text1": "<a href=\"http://mobirise.com\">Lorem ipsum.</a><br /><a href=\"http://mobirise.com\">Perferendis, fugiat.</a><br /><a href=\"http://mobirise.com\">Velit, id.</a><br /><a href=\"http://mobirise.com\">Temporibus, aliquam.</a><br /><a href=\"http://mobirise.com\">Veniam, dolores?</a><br /><a href=\"http://mobirise.com\">Aliquid, eveniet.</a>",
-          "text2": "<a href=\"http://mobirise.com\">Lorem ipsum.</a><br /><a href=\"http://mobirise.com\">Eaque, illum.</a><br /><a href=\"http://mobirise.com\">Ducimus, modi.</a><br /><a href=\"http://mobirise.com\">Ipsa, quia!</a><br /><a href=\"http://mobirise.com\">Velit, impedit.</a><br /><a href=\"http://mobirise.com\">Est, alias?</a>",
-          "text3": "<a href=\"http://mobirise.com\">Lorem ipsum.</a><br /><a href=\"http://mobirise.com\">Laboriosam, culpa.</a><br /><a href=\"http://mobirise.com\">Tempora, quasi.</a><br /><a href=\"http://mobirise.com\">Dolorem, eum.</a><br /><a href=\"http://mobirise.com\">Fugiat, iure.</a><br /><a href=\"http://mobirise.com\">Nobis, veniam.</a>",
-          "text4": "<a href=\"http://mobirise.com\">Lorem ipsum.</a><br /><a href=\"http://mobirise.com\">Excepturi, consectetur.</a><br /><a href=\"http://mobirise.com\">Similique, debitis.</a><br /><a href=\"http://mobirise.com\">Cum, ea!</a><br /><a href=\"http://mobirise.com\">Asperiores, at.</a><br /><a href=\"http://mobirise.com\">Obcaecati, molestias.</a>",
-          "copy": "<a href=\"http://mobirise.com\">Mobirise</a>, 2016",
+          "title1": "About Us",
+          "title2": "Impact Work",
+          "title3": "Business Inquiries",
+          "title4": "",
+          "text1": "Our Mission<br>Corporate Values<br>Public Benefit Corporation<br>CA Supply Chains Act<a href=\"http://mobirise.com\">.</a>",
+          "text2": "Environmental<br>Human Rights<br>Charitable Giving<br>",
+          "text3": "<a href=\"http://mobirise.com\">Contact us</a><br>Partnerships<br>C<a href=\"http://mobirise.com\">areers</a><br><a href=\"http://mobirise.com\">nd a bit more</a><br><a href=\"http://mobirise.com\">.</a>",
+          "text4": "HEADQUARTERS<br>Impossible Diamond, Inc.<br>175 Varick Street 8th Floor<br>New York, NY 10014",
+          "copy": "<p>Privacy Policy&nbsp; &nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;Terms of Service&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; © Impossible Diamond 2019. All Rights Reserved.</p>",
           "_tags": [
             "Theme"
           ],
@@ -318,6 +318,9 @@
           "_styles": {
             ".card-title": {
               "color": "#fffcf6"
+            },
+            ".card-text": {
+              "color": "#6da6d1"
             }
           }
         },
