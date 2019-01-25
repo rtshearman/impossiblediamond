@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Impossible Diamond-clone",
+    "name": "Impossible Diamond",
     "currentPage": "index.html",
     "theme": {
       "name": "directm",
@@ -29,7 +29,17 @@
     "siteFonts": [],
     "uniqCompNum": 8,
     "versionPublish": "4.8.10",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "siteUrl": "http://impossiblediamond.com",
+    "sitemapSwitcherAuto": "on",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": "",
+    "gdpr": "",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
@@ -69,9 +79,9 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.1"
           },
-          "title": "Nothing is Impossible.",
-          "text": "We're on a mission to remove one million metric tonnes of carbon dioxide from the atmosphere over the next five years.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Learn More</a>",
+          "title": "<b>Nothing is Impossible</b>",
+          "text": "We'll remove over a million metric tonnes of CO2 from the atmosphere over the next five years.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Learn How</a>",
           "media1": {
             "iconFont": {
               "active": true,
@@ -140,6 +150,14 @@
             },
             ".mbr-table-cell": {
               "vertical-align": "middle"
+            },
+            ".heading-title B": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".heading-text B": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             }
           }
         },
@@ -305,12 +323,12 @@
           "title1": "<b>About Us</b>",
           "title2": "<b>Impact Work</b>",
           "title3": "<b>Business Inquiries</b>",
-          "title4": "<b>Contact Us</b>",
-          "text1": "Our Mission<br>Corporate Values<br>Public Benefit Corporation<br>CA Supply Chains Act<a href=\"http://mobirise.com\">.</a>",
+          "title4": "",
+          "text1": "Our Mission<br>Corporate Values<br>Public Benefit Corporation<br>",
           "text2": "Environmental<br>Human Rights<br>Charitable Giving<br>",
           "text3": "Partnerships<br>C",
-          "text4": "HEADQUARTERS<br>Impossible Diamond, Inc.<br>175 Varick Street 8th Floor<br>New York, NY 10014<br>+1 (609) 467-4138",
-          "copy": "<p>Privacy Policy&nbsp; &nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;Terms of Service&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; © Impossible Diamond 2019. All Rights Reserved.</p>",
+          "text4": "<b>CONTACT US</b><br>+1 (609) 467-4138<br>info@impossiblediamond.com",
+          "copy": "<p>Privacy Policy&nbsp; &nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;Terms of Service&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;© 2019 Impossible Diamond, Inc. All Rights Reserved.</p>",
           "_tags": [
             "Theme"
           ],

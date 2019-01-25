@@ -6,6 +6,8 @@
 
 
 
+
+
 body,
 input,
 textarea,
@@ -524,6 +526,12 @@ a:hover {
 }
 #header1-0 .mbr-table-cell {
   vertical-align: middle;
+}
+#header1-0 .heading-title B {
+  font-family: 'Montserrat', sans-serif;
+}
+#header1-0 .heading-text B {
+  font-family: 'Montserrat', sans-serif;
 }
 #features20-5 .mbr-section-title,
 #features20-5 .mbr-section-subtitle,
