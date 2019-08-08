@@ -876,15 +876,7 @@ body {
 .cid-rixM8lZ3kC .mbr-section-title {
   text-align: center;
 }
-.cid-rixNlLBnyk {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #232323;
-}
-.cid-rixNlLBnyk .media-container-row {
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-}
-.cid-rixNlLBnyk .media-container-row .mbr-text {
-  color: #ffffff;
+.cid-rixM8lZ3kC .form-text,
+.cid-rixM8lZ3kC .input-group-btn {
+  text-align: center;
 }
